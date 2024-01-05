@@ -1,5 +1,6 @@
-<p script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></p><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="andrewadunn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrewadunn?trk=profile-badge">Andrew Dunn</a></div>
-              </div>
+<header><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></header>  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="andrewadunn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrewadunn?trk=profile-badge">Andrew Dunn</a></div>
+              
 <H3 align='center'><b>Hi, I'm Drew</b></h3>
 
 I have more than 15 years of experience in strategic communications, with a specialty in executive communications and employee engagement. 
