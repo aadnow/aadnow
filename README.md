@@ -1,7 +1,8 @@
-<header><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></header>  
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="andrewadunn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrewadunn?trk=profile-badge">Andrew Dunn</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="andrewadunn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrewadunn?trk=profile-badge">Andrew Dunn</a></div>
+             
 <H3 align='center'><b>Hi, I'm Drew</b></h3>
+
+***
 
 I have more than 15 years of experience in strategic communications, with a specialty in executive communications and employee engagement. 
 
@@ -19,7 +20,8 @@ I have served in both agency and in-house communications leadership roles, manag
 With my experience, skillset, growth mindset, commitment to an inclusive workplace that help everyone thrive -- plus a strong creative impulse and technical execution skills, I hope to offer a unique leadership and partnership profile. 
 
 I welcome the opportunity to discuss your goals and how I might contribute to your team
- 
+           
+</DOCTYPE>
 <!--
 **aadnow/aadnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
