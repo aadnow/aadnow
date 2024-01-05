@@ -1,7 +1,6 @@
 ### Hey I'm Drew 👋 
-- 😄 Pronouns: He/Him
-I have more than 15 years of experience in strategic communications, with a specialty in executive communications and employee engagement. 
-I learned this discipline, honed my craft and earned a reputation for delivering excellence while serving leading global technology companies including Microsoft, Amazon, Intel, and ASUS -- some for more than a decade.
+Pronouns: He/Him
+I have more than 15 years of experience in strategic communications, with a specialty in executive communications and employee engagement. I learned this discipline, 				honed my craft and earned a reputation for delivering excellence while serving leading global technology companies including Microsoft, Amazon, Intel, and ASUS -- some 		for more than a decade.
 For more than five years, I was the business director for Ogilvy Public Relations’ Leadership Communications practice for North Asia. In this role, I led (from Beijing) a distributed team of professionals across North Asia, Singapore and Australia to devise, pitch and execute thoughtful, culturally appropriate and multilingual employee engagement programs as well as external thought leadership and employer branding campaigns for clients including those above plus Huawei, Faurecia, Telstra, GSK and more.
 Some of the highlights of my career include:
 •	Supporting: the leadership communications of five Microsoft CVPs in charge of Microsoft’s Greater China business continuously since 2010; Satya Nadella's first China visit as Microsoft CEO and President Xi Jinping's visit to Redmond campus during his first official visit to the US as China's president.
