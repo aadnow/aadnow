@@ -1,4 +1,4 @@
-### Hey I'm Drew 👋 Here I'm not new but narry a clue
+### Hey I'm Drew 👋 Here I am not new but have yet narry a clue. 
 <!--
 **aadnow/aadnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
