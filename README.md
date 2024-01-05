@@ -1,5 +1,5 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-### Drew here....
+<div script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></div>
+<H3 align='center'><b>Hi, I'm Drew</b></h3>
 
 I have more than 15 years of experience in strategic communications, with a specialty in executive communications and employee engagement. 
 
