@@ -1,10 +1,7 @@
-## Hi, I'm [Drew](https://www.linkedin.com/in/andrewadunn)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="andrewadunn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrewadunn?trk=profile-badge">Andrew Dunn</a></div>
-              
-***
-</head>
-I have more than 15 years of experience in strategic communications, with a specialty in executive communications and employee engagement. 
+## Hi, I'm Drew    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+
+I have more than 15 years of experience in strategic communications, with a specialty in **executive communications and employee engagement**. 
 
 I learned this discipline, honed my craft and earned a reputation for delivering excellence while serving leading global technology companies including <B>Microsoft, Amazon, Intel, and ASUS </B>-- some 		for more than a decade.
 
@@ -21,7 +18,7 @@ With my experience, skillset, growth mindset, commitment to an inclusive workpla
 
 I welcome the opportunity to discuss your goals and how I might contribute to your team
            
-</DOCTYPE>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 <!--
 **aadnow/aadnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
