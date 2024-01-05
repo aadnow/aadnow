@@ -1,9 +1,9 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="andrewadunn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrewadunn?trk=profile-badge">Andrew Dunn</a></div>
-             
-<H3 align='center'><b>Hi, I'm Drew</b></h3>
-
+## Hi, I'm [Drew](https://www.linkedin.com/in/andrewadunn)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="andrewadunn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrewadunn?trk=profile-badge">Andrew Dunn</a></div>
+              
 ***
-
+</head>
 I have more than 15 years of experience in strategic communications, with a specialty in executive communications and employee engagement. 
 
 I learned this discipline, honed my craft and earned a reputation for delivering excellence while serving leading global technology companies including <B>Microsoft, Amazon, Intel, and ASUS </B>-- some 		for more than a decade.
@@ -14,7 +14,7 @@ For more than five years, I was the business director for <b>Ogilvy Public Relat
 - <b>Supporting:</b> the leadership communications of five Microsoft CVPs in charge of Microsoft’s Greater China business continuously since 2010; Satya Nadella's first China visit as Microsoft CEO and President Xi Jinping's visit to Redmond campus during his first official visit to the US as China's president.
 - <b>Driving:</b> the refresh of ASUS corporate messaging across many different business groups and training executives and global communicators to use the storytelling frameworks and tools that we developed.
 - <b>Delivering significant impact:</b> developing a series of thought leadership bylines and a social content campaign for Intel's former Chairman, Sean M. Maloney, that drove acquisition of more than 1 million Sina Weibo followers in the first year.
-- 
+  
 I have served in both agency and in-house communications leadership roles, managed teams with more than a dozen direct reports and multi-million-dollar budgets and I have also run lean virtual comms shops using freelancers to supplement in-house agency resources to deliver impact. I keep cool during high-stakes circumstances, step up to help solve problems regardless of who ‘owns’ them, settle nerves, bolster confidence and help people be their best when it matters most.
 
 With my experience, skillset, growth mindset, commitment to an inclusive workplace that help everyone thrive -- plus a strong creative impulse and technical execution skills, I hope to offer a unique leadership and partnership profile. 
