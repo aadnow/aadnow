@@ -1,5 +1,5 @@
 ## Hi, I'm Drew    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewadunn)
 
 
 I have more than 15 years of experience in strategic communications, with a specialty in **executive communications and employee engagement**. 
@@ -12,7 +12,7 @@ With my experience, skillset, growth mindset, commitment to an inclusive workpla
 
 I welcome the opportunity to discuss your goals and how I might contribute to your team
            
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewadunn)
 <!--
 **aadnow/aadnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
